@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f1a14b05
 license: CC0-1.0
+name: teapot-love
 type: industry
+url: https://github.com/bjornwarmedal/teapot-love
 version: 6
