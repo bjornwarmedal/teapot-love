@@ -18,7 +18,7 @@ layout:
   - - 0
     - 1
     - 1
-    - 4
+    - 3
   - - 0
     - 0
     - 5
@@ -97,7 +97,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      id: 0
+      filename: industries/tea-tree-farm/11.png
       left: -31
       top: 0
 - sprites:
