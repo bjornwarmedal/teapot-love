@@ -1,0 +1,17 @@
+abbreviation: TL
+available: false
+classes: 32
+colour: 86
+id: 0
+label: TEAL
+longName: tea leaves
+name: Tea leaves
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 6168
+sprite:
+  filename: cargoes/tea-leaves.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 8

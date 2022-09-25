@@ -1,0 +1,17 @@
+abbreviation: TD
+available: false
+classes: 32
+colour: 62
+id: 1
+label: TEAD
+longName: tea tea deluxe
+name: Tea Tea Deluxe
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 10280
+sprite:
+  filename: cargoes/tea-tea-deluxe.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 10

@@ -1,0 +1,71 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- TEAL
+cargoProduction:
+- TEAD
+colour: 1
+fundCostMultiplier: 100
+id: 1
+layout:
+- - - 3
+    - 0
+  - - 2
+    - 1
+name: Tea Tea Deluxe Factory
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/tea-tea-deluxe-factory/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/tea-tea-deluxe-factory/1.png
+      left: -31
+      top: -30
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/tea-tea-deluxe-factory/3.png
+      left: -31
+      top: -10
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/tea-tea-deluxe-factory/5.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/tea-tea-deluxe-factory/4.png
+      left: -31
+      top: -20
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/tea-tea-deluxe-factory/7.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/tea-tea-deluxe-factory/6.png
+      left: -31
+      top: -30
+type: secondary

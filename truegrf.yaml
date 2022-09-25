@@ -1,7 +1,7 @@
-description: A new TrueGRF project
+description: Adds tea leaf farms to the game, which in turn are used to produce the noblest of beverages. In the world of OpenTTD the very best brand is of course Tea Tea Deluxe. Note that I have no idea what an actual tea tree farm or tea factory (is it even called that?) look like. I played around with sprites and decided that tea trees in OpenTTD grow in dense and idyllic vineyard-like farms.
 grfid: f1a14b05
 license: CC0-1.0
-name: teapot-love
+name: tea-tea-deluxe
 type: industry
-url: https://github.com/bjornwarmedal/teapot-love
+url: https://github.com/bjornwarmedal/tea-tea-deluxe
 version: 6
